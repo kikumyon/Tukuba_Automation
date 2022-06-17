@@ -2,7 +2,7 @@
 
 version       = "0.1.0"
 author        = "kikumyon"
-description   = ""
+description   = "Automation for Applications of University of Tsukuba"
 license       = "MIT"
 srcDir        = "src"
 bin           = @["Tukuba_Automation"]
